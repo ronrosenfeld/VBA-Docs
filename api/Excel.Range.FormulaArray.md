@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 
 ## Remarks
 
-The **FormulaArray** property also has a character limit of 255.
+The **FormulaArray** property also has a character limit of 255. The number of characters is computed for the R1C1 version of the formula.
 
 
 ## Example
